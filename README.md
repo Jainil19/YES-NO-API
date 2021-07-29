@@ -1,5 +1,5 @@
 # Yes No API 
- https://jainil19.github.io/Yes-No-API/
+ The API retturn Yes or No answers on your Questions
 
 ### Tech stack
 ```
